@@ -1,0 +1,12 @@
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.AssemblyInfo.cs
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.deps.json
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\bin\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.dll
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\refint\SimpleEngine.dll
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\SimpleEngine.pdb
+C:\Users\asajuaug\source\repos\CPI411_2024\SimpleEngine\obj\Debug\net6.0-windows\ref\SimpleEngine.dll

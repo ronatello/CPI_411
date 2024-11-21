@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/cube.fbx</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/Skybox.fx</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG1.png</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG2.png</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG3.png</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG4.png</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG5.png</File>
+    <File>C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

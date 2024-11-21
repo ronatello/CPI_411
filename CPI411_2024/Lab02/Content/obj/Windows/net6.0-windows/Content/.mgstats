@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab02/Content/First3DShader.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab02/Content/bin/Windows/Content/First3DShader.xnb","EffectProcessor","CompiledEffectContent",1021,1604,0.2916443
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab02/Content/logo_mg.jpg","C:/Users/asajuaug/source/repos/CPI411_2024/Lab02/Content/bin/Windows/Content/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.0332423

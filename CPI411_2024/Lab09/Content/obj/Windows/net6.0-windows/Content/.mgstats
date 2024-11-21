@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/Checker.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/bin/Windows/Content/Checker.xnb","TextureProcessor","Texture2DContent",2833,4181,0.0866146
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1552603
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/Plane.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.0686456
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/ShadowShader.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/bin/Windows/Content/ShadowShader.xnb","EffectProcessor","CompiledEffectContent",3421,4748,0.3127531
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/torus.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab09/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.0092622

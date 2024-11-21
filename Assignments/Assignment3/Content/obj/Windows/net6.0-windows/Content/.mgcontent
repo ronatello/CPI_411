@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_negx.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_negy.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_negz.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_posx.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_posy.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/arch_posz.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_negx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_negy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_negz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_posx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_posy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/debug_posz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_negx.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_negy.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_negz.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_posx.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_posy.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/grandcanyon_posz.jpg</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_negx.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_negy.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_negz.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_posx.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_posy.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/hills_posz.bmp</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_negx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_negy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_negz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_posx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_posy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/nvlobby_new_posz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_negx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_negy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_negz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_posx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_posy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/test_posz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_negx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_negy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_negz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_posx.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_posy.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/EnvironmentMaps/vz_clear_ocean_posz.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/Font.spritefont</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/art.PNG</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/BumpTest.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/crossHatch.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/monkey.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/round.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/saint.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/science.PNG</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/NormalMaps/square.png</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/Shaders.fx</File>
+    <File>C:/Users/Administrator/source/repos/Assignments/Assignment3/Content/torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/filter.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/bin/Windows/filter.xnb","TextureProcessor","Texture2DContent",3506,2133,0.0833954
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.0701296
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/Honolulu.JPG","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/bin/Windows/Honolulu.xnb","TextureProcessor","Texture2DContent",116854,5529685,0.0881958
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/post-complete.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08A/Content/bin/Windows/post-complete.xnb","EffectProcessor","CompiledEffectContent",809,1348,0.2215969

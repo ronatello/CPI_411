@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECBD68B-BB9A-4CB0-873C-31AD1B653300}|Lab07\\Lab07.csproj|c:\\users\\administrator\\source\\repos\\cpi411_2024\\lab07\\content\\bumpmap.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1ECBD68B-BB9A-4CB0-873C-31AD1B653300}|Lab07\\Lab07.csproj|solutionrelative:lab07\\content\\bumpmap.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECBD68B-BB9A-4CB0-873C-31AD1B653300}|Lab07\\Lab07.csproj|C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\lab07\\lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECBD68B-BB9A-4CB0-873C-31AD1B653300}|Lab07\\Lab07.csproj|solutionrelative:lab07\\lab07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BumpMap.fx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\Lab07\\Content\\BumpMap.fx",
+              "RelativeDocumentMoniker": "Lab07\\Content\\BumpMap.fx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\Lab07\\Content\\BumpMap.fx",
+              "RelativeToolTip": "Lab07\\Content\\BumpMap.fx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAE4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T19:31:15.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab07.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\Lab07\\Lab07.cs",
+              "RelativeDocumentMoniker": "Lab07\\Lab07.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CPI411_2024\\Lab07\\Lab07.cs",
+              "RelativeToolTip": "Lab07\\Lab07.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:31:11.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

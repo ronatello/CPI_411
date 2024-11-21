@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/fire.png","C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/bin/Windows/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.2072153
+"C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/Font.spritefont","C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1497227
+"C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/Plane.FBX","C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,1657,0.1746902
+"C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/smoke.png","C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/bin/Windows/smoke.xnb","TextureProcessor","Texture2DContent",90978,262229,0.0206875
+"C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/water.png","C:/Users/Administrator/source/repos/Assignments/Assignment4/Content/bin/Windows/water.xnb","TextureProcessor","Texture2DContent",58538,262229,0.0207355

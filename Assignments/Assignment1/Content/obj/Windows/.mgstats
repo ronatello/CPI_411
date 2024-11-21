@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/box.fbx","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/box.xnb","ModelProcessor","ModelContent",20592,1501,0.2447169
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bunny.FBX","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.3727368
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/Font.spritefont","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1502658
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/Shaders.fx","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/Shaders.xnb","EffectProcessor","CompiledEffectContent",4608,6284,0.3610277
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/sphere.fbx","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/sphere.xnb","ModelProcessor","ModelContent",97856,93051,0.0182006
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/teapot.fbx","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/teapot.xnb","ModelProcessor","ModelContent",353152,374811,0.0762364
+"C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/torus.FBX","C:/Users/Administrator/source/repos/Assignments/Assignment1/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0249696

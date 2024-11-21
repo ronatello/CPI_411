@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/box.fbx","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/box.xnb","ModelProcessor","ModelContent",20592,1501,0.1282225
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bunny.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.2906571
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.0992963
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/Shaders.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/Shaders.xnb","EffectProcessor","CompiledEffectContent",7748,10150,0.328404
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/sphere.fbx","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/sphere.xnb","ModelProcessor","ModelContent",97856,93051,0.0136064
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/teapot.fbx","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/teapot.xnb","ModelProcessor","ModelContent",353152,374811,0.0409799
+"C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/torus.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Assignment1/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0166042

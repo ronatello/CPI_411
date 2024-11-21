@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/DepthAndNormalMap.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/bin/Windows/Content/DepthAndNormalMap.xnb","EffectProcessor","CompiledEffectContent",1319,2102,0.2898025
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1570724
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/noise.jpg","C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/bin/Windows/Content/noise.xnb","TextureProcessor","Texture2DContent",46291,65621,0.0988046
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/objects.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/bin/Windows/Content/objects.xnb","ModelProcessor","ModelContent",192320,152993,0.0893562
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/SSAO.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab12/Content/bin/Windows/Content/SSAO.xnb","EffectProcessor","CompiledEffectContent",3135,12345,0.3335388

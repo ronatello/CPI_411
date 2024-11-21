@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.146605
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/SimpleShading.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",4608,6284,0.2970987
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/Torus.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab04/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0720638

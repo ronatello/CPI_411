@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1533002
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/nvlobby_new_negz.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.0324
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/Plane.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.0682234
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/ProjectiveTexture.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",2179,3402,0.3011568
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/ShadowMap.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/ShadowMap.xnb","EffectProcessor","CompiledEffectContent",1459,2273,0.2726531
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/torus.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab08/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",88896,53689,0.0106686

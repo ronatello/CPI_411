@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/SimpleShading.fx</SourceFile>
+  <SourceTime>2024-01-25T14:16:34.7336587-07:00</SourceTime>
+  <DestFile>C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/bin/Windows/Content/SimpleShading.xnb</DestFile>
+  <DestTime>2024-01-25T14:16:40.85495-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

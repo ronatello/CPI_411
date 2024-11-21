@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/bunny.FBX","C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/bin/Windows/Content/bunny.xnb","ModelProcessor","ModelContent",2733392,1254683,0.275809
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/Font.spritefont","C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1551776
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/SimpleShading.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab03/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",1364,2232,0.2787454

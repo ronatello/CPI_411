@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/cube.fbx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/cube.xnb","ModelProcessor","ModelContent",16784,907,0.1287475
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/Skybox.fx","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/Skybox.xnb","EffectProcessor","CompiledEffectContent",1167,1692,0.2280054
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG1.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.0441288
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG2.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0431927
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG3.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0266391
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG4.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0425692
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG5.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0303362
+"C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/Skybox/SunsetPNG6.png","C:/Users/asajuaug/source/repos/CPI411_2024/Lab05/Content/bin/Windows/Skybox/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0218094

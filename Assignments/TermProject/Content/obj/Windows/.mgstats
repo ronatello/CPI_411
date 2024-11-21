@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/blueprint.jpg","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/blueprint.xnb","TextureProcessor","Texture2DContent",42116,915637,0.1829491
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/EdgeMap.fx","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/EdgeMap.xnb","EffectProcessor","CompiledEffectContent",4586,2141,0.4302021
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/Font.spritefont","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1391201
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/objects.FBX","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/objects.xnb","ModelProcessor","ModelContent",192320,152993,0.1357625
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/Shaders.fx","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/Shaders.xnb","EffectProcessor","CompiledEffectContent",9259,7466,0.4022693
+"C:/Users/Administrator/source/repos/Assignments/TermProject/Content/ZTest.fx","C:/Users/Administrator/source/repos/Assignments/TermProject/Content/bin/Windows/ZTest.xnb","EffectProcessor","CompiledEffectContent",4059,2129,0.4183437
